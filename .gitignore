@@ -1,0 +1,8 @@
+__pycache__
+*.npy
+*.hdf5
+tmp_build
+models
+data
+output_meshes
+trained_models

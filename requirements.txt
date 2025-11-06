@@ -1,0 +1,10 @@
+mesh-to-sdf==0.0.15
+trimesh==4.5.3
+open3d==0.19.0
+h5py==3.14.0
+scikit-image==0.25.0
+matplotlib==3.8.4
+
+# Install from git repositories
+git+https://github.com/fishbotics/robofin.git@v0.0.1
+git+https://github.com/fishbotics/pointnet2_ops.git@main
