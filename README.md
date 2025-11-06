@@ -27,7 +27,7 @@
 - cuRobo: 0.7.6
 - open3d: 0.19.0
 - robofin: 0.0.1
-- 
+
 ### Option 1: Standard installation
 ```bash
 pip install -r requirements.txt
