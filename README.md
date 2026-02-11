@@ -1,8 +1,6 @@
 # Code for paper "SAMP: Spatial Anchor-based Motion Policy for Collision-Aware Robotic Manipulators"
 
 
-<a href="https://arxiv.org/abs/2509.11185"><img src="https://img.shields.io/badge/ArXiv-2509.11185-da282a.svg"/></a>
-
 
 <p align="center">
 <table>
@@ -104,18 +102,6 @@ Test performance in different environments. You can modify the scene `world_file
 
 ```python
 omni_python eval_policy_results.py
-```
-
-## Citation
-
-```
-@misc{chen2025sampspatialanchorbasedmotion,
-      title={SAMP: Spatial Anchor-based Motion Policy for Collision-Aware Robotic Manipulators}, 
-      author={Kai Chen and Zhihai Bi and Guoyang Zhao and Chunxin Zheng and Yulin Li and Hang Zhao and Jun Ma},
-      year={2025},
-      eprint={2509.11185},
-      archivePrefix={arXiv},
-}
 ```
 
 ## Thanks
