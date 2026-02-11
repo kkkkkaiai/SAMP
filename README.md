@@ -5,14 +5,14 @@
 <p align="center">
 <table>
   <tr>
-    <td align="center"><img src="./media/sim_1.png" alt="Simulation Result 1" width="300"><br></td>
-    <td align="center"><img src="./media/sim_2.png" alt="Simulation Result 2" width="300"><br></td>
-    <td align="center"><img src="./media/sim_3.png" alt="Simulation Result 3" width="300"><br></td>
+    <td align="center"><img src="https://anonymous.4open.science/r/SAMP_ANONY/media/sim_1.png" alt="Simulation Result 1" width="300"><br></td>
+    <td align="center"><img src="https://anonymous.4open.science/r/SAMP_ANONY/media/sim_2.png" alt="Simulation Result 2" width="300"><br></td>
+    <td align="center"><img src="https://anonymous.4open.science/r/SAMP_ANONY/media/sim_3.png" alt="Simulation Result 3" width="300"><br></td>
   </tr>
   <tr>
-    <td align="center"><img src="./media/real_1.png" alt="Real-world Experiment 1" width="300"><br></td>
-    <td align="center"><img src="./media/real_2.png" alt="Real-world Experiment 2" width="300"><br></td>
-    <td align="center"><img src="./media/real_3.png" alt="Real-world Experiment 3" width="300"><br></td>
+    <td align="center"><img src="https://anonymous.4open.science/r/SAMP_ANONY/media/real_1.png" alt="Real-world Experiment 1" width="300"><br></td>
+    <td align="center"><img src="https://anonymous.4open.science/r/SAMP_ANONY/media/real_2.png" alt="Real-world Experiment 2" width="300"><br></td>
+    <td align="center"><img src="https://anonymous.4open.science/r/SAMP_ANONY/media/real_3.png" alt="Real-world Experiment 3" width="300"><br></td>
   </tr>
 </table>
 </p>
